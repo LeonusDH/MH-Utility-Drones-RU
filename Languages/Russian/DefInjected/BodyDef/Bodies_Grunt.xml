@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MHUD_GruntBody.label>Труженик</MHUD_GruntBody.label>
+  <MHUD_GruntBody.corePart.parts.3.customLabel>левый радиатор</MHUD_GruntBody.corePart.parts.3.customLabel>
+  <MHUD_GruntBody.corePart.parts.4.customLabel>правый радиатор</MHUD_GruntBody.corePart.parts.4.customLabel>
+  <MHUD_GruntBody.corePart.parts.7.parts.0.parts.3.customLabel>левый оптический датчик</MHUD_GruntBody.corePart.parts.7.parts.0.parts.3.customLabel>
+  <MHUD_GruntBody.corePart.parts.7.parts.0.parts.4.customLabel>правый оптический датчик</MHUD_GruntBody.corePart.parts.7.parts.0.parts.4.customLabel>
+  <MHUD_GruntBody.corePart.parts.7.parts.0.parts.5.customLabel>левый звуковой датчик</MHUD_GruntBody.corePart.parts.7.parts.0.parts.5.customLabel>
+  <MHUD_GruntBody.corePart.parts.7.parts.0.parts.6.customLabel>правый звуковой датчик</MHUD_GruntBody.corePart.parts.7.parts.0.parts.6.customLabel>
+  <MHUD_GruntBody.corePart.parts.8.customLabel>левое плечо</MHUD_GruntBody.corePart.parts.8.customLabel>
+  <MHUD_GruntBody.corePart.parts.8.parts.0.customLabel>левая рука</MHUD_GruntBody.corePart.parts.8.parts.0.customLabel>
+  <MHUD_GruntBody.corePart.parts.8.parts.0.parts.0.customLabel>левая кисть</MHUD_GruntBody.corePart.parts.8.parts.0.parts.0.customLabel>
+  <MHUD_GruntBody.corePart.parts.8.parts.0.parts.0.parts.0.customLabel>левый мизинец</MHUD_GruntBody.corePart.parts.8.parts.0.parts.0.parts.0.customLabel>
+  <MHUD_GruntBody.corePart.parts.8.parts.0.parts.0.parts.1.customLabel>левый указательный палец</MHUD_GruntBody.corePart.parts.8.parts.0.parts.0.parts.1.customLabel>
+  <MHUD_GruntBody.corePart.parts.8.parts.0.parts.0.parts.2.customLabel>левый большой палец</MHUD_GruntBody.corePart.parts.8.parts.0.parts.0.parts.2.customLabel>
+  <MHUD_GruntBody.corePart.parts.9.customLabel>правое плечо</MHUD_GruntBody.corePart.parts.9.customLabel>
+  <MHUD_GruntBody.corePart.parts.9.parts.0.customLabel>правая рука</MHUD_GruntBody.corePart.parts.9.parts.0.customLabel>
+  <MHUD_GruntBody.corePart.parts.9.parts.0.parts.0.customLabel>правая кисть</MHUD_GruntBody.corePart.parts.9.parts.0.parts.0.customLabel>
+  <MHUD_GruntBody.corePart.parts.9.parts.0.parts.0.parts.0.customLabel>правый мизинец</MHUD_GruntBody.corePart.parts.9.parts.0.parts.0.parts.0.customLabel>
+  <MHUD_GruntBody.corePart.parts.9.parts.0.parts.0.parts.1.customLabel>правый указательный палец</MHUD_GruntBody.corePart.parts.9.parts.0.parts.0.parts.1.customLabel>
+  <MHUD_GruntBody.corePart.parts.9.parts.0.parts.0.parts.2.customLabel>правый большой палец</MHUD_GruntBody.corePart.parts.9.parts.0.parts.0.parts.2.customLabel>
+  <MHUD_GruntBody.corePart.parts.11.customLabel>левая нога</MHUD_GruntBody.corePart.parts.11.customLabel>
+  <MHUD_GruntBody.corePart.parts.11.parts.0.customLabel>левая стопа</MHUD_GruntBody.corePart.parts.11.parts.0.customLabel>
+  <MHUD_GruntBody.corePart.parts.12.customLabel>правая нога</MHUD_GruntBody.corePart.parts.12.customLabel>
+  <MHUD_GruntBody.corePart.parts.12.parts.0.customLabel>правая стопа</MHUD_GruntBody.corePart.parts.12.parts.0.customLabel>
+
+
+</LanguageData>

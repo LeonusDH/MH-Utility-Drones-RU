@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MHUD_OverseerBody.label>Надзиратель</MHUD_OverseerBody.label>
+  <MHUD_OverseerBody.corePart.parts.3.customLabel>левый радиатор</MHUD_OverseerBody.corePart.parts.3.customLabel>
+  <MHUD_OverseerBody.corePart.parts.4.customLabel>правый радиатор</MHUD_OverseerBody.corePart.parts.4.customLabel>
+  <MHUD_OverseerBody.corePart.parts.7.parts.0.parts.3.customLabel>Основной оптический датчик</MHUD_OverseerBody.corePart.parts.7.parts.0.parts.3.customLabel>
+  <MHUD_OverseerBody.corePart.parts.7.parts.0.parts.4.customLabel>Вторичный оптический датчик</MHUD_OverseerBody.corePart.parts.7.parts.0.parts.4.customLabel>
+  <MHUD_OverseerBody.corePart.parts.7.parts.0.parts.5.customLabel>Третичный оптический датчик</MHUD_OverseerBody.corePart.parts.7.parts.0.parts.5.customLabel>
+  <MHUD_OverseerBody.corePart.parts.7.parts.0.parts.6.customLabel>левый звуковой датчик</MHUD_OverseerBody.corePart.parts.7.parts.0.parts.6.customLabel>
+  <MHUD_OverseerBody.corePart.parts.7.parts.0.parts.7.customLabel>правый звуковой датчик</MHUD_OverseerBody.corePart.parts.7.parts.0.parts.7.customLabel>
+  <MHUD_OverseerBody.corePart.parts.8.customLabel>основание туловищного отростка</MHUD_OverseerBody.corePart.parts.8.customLabel>
+  <MHUD_OverseerBody.corePart.parts.8.parts.0.customLabel>туловищная рука</MHUD_OverseerBody.corePart.parts.8.parts.0.customLabel>
+  <MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.customLabel>основа захвата</MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.customLabel>
+  <MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.0.customLabel>первый захват</MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.0.customLabel>
+  <MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.1.customLabel>второй захват</MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.1.customLabel>
+  <MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.2.customLabel>третий захват</MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.2.customLabel>
+  <MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.3.customLabel>четвёртый захват</MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.3.customLabel>
+  <MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.4.customLabel>пятый захват</MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.4.customLabel>
+  <MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.5.customLabel>шестой захват</MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.5.customLabel>
+  <MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.6.customLabel>седьмой захват</MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.6.customLabel>
+  <MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.7.customLabel>восьмой захват</MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.7.customLabel>
+  <MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.8.customLabel>девятый захват</MHUD_OverseerBody.corePart.parts.8.parts.0.parts.0.parts.8.customLabel>
+  <MHUD_OverseerBody.corePart.parts.10.customLabel>левая нога</MHUD_OverseerBody.corePart.parts.10.customLabel>
+  <MHUD_OverseerBody.corePart.parts.10.parts.0.customLabel>левая стопа</MHUD_OverseerBody.corePart.parts.10.parts.0.customLabel>
+  <MHUD_OverseerBody.corePart.parts.11.customLabel>правая нога</MHUD_OverseerBody.corePart.parts.11.customLabel>
+  <MHUD_OverseerBody.corePart.parts.11.parts.0.customLabel>правая стопа</MHUD_OverseerBody.corePart.parts.11.parts.0.customLabel>
+
+
+</LanguageData>

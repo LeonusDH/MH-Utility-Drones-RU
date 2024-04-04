@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MHUD_GruntDrone.label>Дрон Труженик</MHUD_GruntDrone.label>
+  <MHUD_GruntDrone.description>Главная особенность соответствует его названию и простой конструкции. Подобные дроны созданы исключительно для работы, прочные, способные и стойкие. Не обладая тонкой моторикой, свойственной менее гиперспециализированным юнитам, они, тем не менее, не способны выполнять большинство сложных задач.\n\nСамыми продвинутыми элементами его конструкции являются аккумулятор и генераторы, которые позволяют максимально оптимизировать рабочий процесс и свести простои к минимуму.</MHUD_GruntDrone.description>
+  <MHUD_GruntDrone.tools.0.label>правый кулак</MHUD_GruntDrone.tools.0.label>
+  <MHUD_GruntDrone.tools.1.label>левый кулак</MHUD_GruntDrone.tools.1.label>
+  <MHUD_GruntDrone.tools.2.label>голова</MHUD_GruntDrone.tools.2.label>
+
+
+</LanguageData>

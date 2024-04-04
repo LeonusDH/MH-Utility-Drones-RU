@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MHUD_EnvoyBody.label>Посол</MHUD_EnvoyBody.label>
+  <MHUD_EnvoyBody.corePart.parts.3.customLabel>левый радиатор</MHUD_EnvoyBody.corePart.parts.3.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.4.customLabel>правый радиатор</MHUD_EnvoyBody.corePart.parts.4.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.7.parts.0.parts.3.customLabel>левый оптический датчик</MHUD_EnvoyBody.corePart.parts.7.parts.0.parts.3.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.7.parts.0.parts.4.customLabel>правый оптический датчик</MHUD_EnvoyBody.corePart.parts.7.parts.0.parts.4.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.7.parts.0.parts.5.customLabel>левый звуковой датчик</MHUD_EnvoyBody.corePart.parts.7.parts.0.parts.5.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.7.parts.0.parts.6.customLabel>правый звуковой датчик</MHUD_EnvoyBody.corePart.parts.7.parts.0.parts.6.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.8.customLabel>левое плечо</MHUD_EnvoyBody.corePart.parts.8.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.8.parts.0.customLabel>левая рука</MHUD_EnvoyBody.corePart.parts.8.parts.0.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.8.parts.0.parts.0.customLabel>левая кисть</MHUD_EnvoyBody.corePart.parts.8.parts.0.parts.0.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.8.parts.0.parts.0.parts.0.customLabel>левый мизинец</MHUD_EnvoyBody.corePart.parts.8.parts.0.parts.0.parts.0.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.8.parts.0.parts.0.parts.1.customLabel>левый безымянный палец</MHUD_EnvoyBody.corePart.parts.8.parts.0.parts.0.parts.1.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.8.parts.0.parts.0.parts.2.customLabel>левый средний палец</MHUD_EnvoyBody.corePart.parts.8.parts.0.parts.0.parts.2.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.8.parts.0.parts.0.parts.3.customLabel>левый указательный палец</MHUD_EnvoyBody.corePart.parts.8.parts.0.parts.0.parts.3.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.8.parts.0.parts.0.parts.4.customLabel>левый большой палец</MHUD_EnvoyBody.corePart.parts.8.parts.0.parts.0.parts.4.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.9.customLabel>правое плечо</MHUD_EnvoyBody.corePart.parts.9.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.9.parts.0.customLabel>правая рука</MHUD_EnvoyBody.corePart.parts.9.parts.0.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.9.parts.0.parts.0.customLabel>правая кисть</MHUD_EnvoyBody.corePart.parts.9.parts.0.parts.0.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.9.parts.0.parts.0.parts.0.customLabel>правый мизинец</MHUD_EnvoyBody.corePart.parts.9.parts.0.parts.0.parts.0.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.9.parts.0.parts.0.parts.1.customLabel>правый безымянный палец</MHUD_EnvoyBody.corePart.parts.9.parts.0.parts.0.parts.1.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.9.parts.0.parts.0.parts.2.customLabel>правый средний палец</MHUD_EnvoyBody.corePart.parts.9.parts.0.parts.0.parts.2.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.9.parts.0.parts.0.parts.3.customLabel>правый указательный палец</MHUD_EnvoyBody.corePart.parts.9.parts.0.parts.0.parts.3.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.9.parts.0.parts.0.parts.4.customLabel>правый большой палец</MHUD_EnvoyBody.corePart.parts.9.parts.0.parts.0.parts.4.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.11.customLabel>левая нога</MHUD_EnvoyBody.corePart.parts.11.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.11.parts.0.customLabel>левая стопа</MHUD_EnvoyBody.corePart.parts.11.parts.0.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.12.customLabel>правая нога</MHUD_EnvoyBody.corePart.parts.12.customLabel>
+  <MHUD_EnvoyBody.corePart.parts.12.parts.0.customLabel>правая стопа</MHUD_EnvoyBody.corePart.parts.12.parts.0.customLabel>
+
+
+</LanguageData>

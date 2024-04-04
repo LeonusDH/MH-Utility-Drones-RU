@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MHUD_GruntDroneColony.label>Дрон Труженик</MHUD_GruntDroneColony.label>
+  <MHUD_GruntDroneColony.labelPlural>Дроны Труженики</MHUD_GruntDroneColony.labelPlural>
+  <MHUD_GruntDroneColony.labelMale>мужчина дрон Труженик</MHUD_GruntDroneColony.labelMale>
+  <MHUD_GruntDroneColony.labelMalePlural>мужчины дроны Труженики</MHUD_GruntDroneColony.labelMalePlural>
+  <MHUD_GruntDroneColony.labelFemale>женщина дрон Труженик</MHUD_GruntDroneColony.labelFemale>
+  <MHUD_GruntDroneColony.labelFemalePlural>женщины дроны Труженики</MHUD_GruntDroneColony.labelFemalePlural>
+
+  <MHUD_OverseerDroneColony.label>Дрон Надзиратель</MHUD_OverseerDroneColony.label>
+  <MHUD_OverseerDroneColony.labelPlural>Дроны Надзиратели</MHUD_OverseerDroneColony.labelPlural>
+  <MHUD_OverseerDroneColony.labelMale>мужчина дрон Надзиратель</MHUD_OverseerDroneColony.labelMale>
+  <MHUD_OverseerDroneColony.labelMalePlural>мужчины дроны Надзиратели</MHUD_OverseerDroneColony.labelMalePlural>
+  <MHUD_OverseerDroneColony.labelFemale>женщина дрон Надзиратель</MHUD_OverseerDroneColony.labelFemale>
+  <MHUD_OverseerDroneColony.labelFemalePlural>женщины дроны Надзиратели</MHUD_OverseerDroneColony.labelFemalePlural>
+
+  <MHUD_EnvoyDroneColony.label>Дрон Посол</MHUD_EnvoyDroneColony.label>
+  <MHUD_EnvoyDroneColony.labelPlural>Дроны Послы</MHUD_EnvoyDroneColony.labelPlural>
+  <MHUD_EnvoyDroneColony.labelMale>мужчина дрон Посол</MHUD_EnvoyDroneColony.labelMale>
+  <MHUD_EnvoyDroneColony.labelMalePlural>мужчины дроны Послы</MHUD_EnvoyDroneColony.labelMalePlural>
+  <MHUD_EnvoyDroneColony.labelFemale>женщина дрон Посол</MHUD_EnvoyDroneColony.labelFemale>
+  <MHUD_EnvoyDroneColony.labelFemalePlural>женщины дроны Послы</MHUD_EnvoyDroneColony.labelFemalePlural>
+
+
+</LanguageData>

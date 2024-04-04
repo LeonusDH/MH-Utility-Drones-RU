@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Reprogram Letter -->
+  <MHUD_ReprogramDrone>Перепрограммировать {0}</MHUD_ReprogramDrone>
+  <MHUD_ReprogramDroneDesc>{0} не хватает программы. Для того чтобы функционировать, её нужно установить. Откройте это сообщение, чтобы установить её сейчас.</MHUD_ReprogramDroneDesc>
+  <MHUD_InvalidUntilSpawned>Для правильного перепрограммирования, юнит должен быть создан с нуля.</MHUD_InvalidUntilSpawned>
+
+</LanguageData>
